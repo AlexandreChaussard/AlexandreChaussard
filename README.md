@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreChaussard&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://readme-stats-psi-six.vercel.app/api?username=AlexandreChaussard&show_icons=true&theme=tokyonight)
 
